@@ -1,7 +1,5 @@
-# Hospital Readmission Prediction and Analysis
-Identifying high-risk patients and improving post-discharge care using data analytics and predictive modeling.
 ## Project Overview
-
+너무 장황하고 길 필요없음: 문제 정의 (왜 중요한 문제인가), 분석 목적 (무엇을 알아내고자 했는가)
 Hospital readmissions are costly and often preventable.  
 This project explores patterns in patient data to:
 
@@ -9,11 +7,17 @@ This project explores patterns in patient data to:
 - Analyze the relationship between discharge disposition and readmission risk  
 - Develop a predictive model to estimate readmission likelihood  
 
-> Goal: Provide actionable insights and tools to support hospital decision-making and reduce preventable readmissions.
+## Objectives
+(2~3개면 충분함)
+Provide actionable insights and tools to support hospital decision-making and reduce preventable readmissions.
 
 ## Data
 [Datasets](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008)
 
-## Key Findings
+## Analysis
+### Insights
+### Recommendations
+
+## Predictive Model
 
 ## Project Structure
